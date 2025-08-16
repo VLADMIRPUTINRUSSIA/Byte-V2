@@ -1,0 +1,5 @@
+aiohttp
+aiodns
+python-dotenv
+tqdm
+pyopenssl
